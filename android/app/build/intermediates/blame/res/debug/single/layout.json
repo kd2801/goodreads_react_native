@@ -160,10 +160,6 @@
         "source": "/Users/keshavdhawan/Documents/react-native/react_app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "/Users/keshavdhawan/Documents/react-native/react_app/android/app/build/intermediates/res/merged/debug/layout/launch_screen.xml",
-        "source": "/Users/keshavdhawan/Documents/react-native/react_app/android/app/src/main/res/layout/launch_screen.xml"
-    },
-    {
         "merged": "/Users/keshavdhawan/Documents/react-native/react_app/android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
         "source": "/Users/keshavdhawan/Documents/react-native/react_app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_mode_bar.xml"
     }
